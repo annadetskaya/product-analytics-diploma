@@ -1,2 +1,9 @@
-# product-analytics-diploma
-End-to-end product analytics diploma project with dashboards and A/B testing
+# Product Analytics Diploma Project
+
+This is my end-to-end diploma project in product analytics.
+
+## What was done
+- Data exploration and cleaning
+- Calculation of product metrics
+- Dashboard creation
+- A/B test analysis
